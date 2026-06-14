@@ -1,0 +1,5 @@
+node_id,node_name,region,node_role,db_engine
+DB-NY-PRI,New York Primary,US-East (New York),Primary,PostgreSQL High-Avail
+DB-LDN-REP,London Replica,UK-South (London),Replica,PostgreSQL Replica
+DB-MUM-REP,Mumbai Replica,AP-South (Mumbai),Replica,PostgreSQL Replica
+DB-TKY-REP,Tokyo Replica,AP-Northeast (Tokyo),Replica,PostgreSQL Replica
