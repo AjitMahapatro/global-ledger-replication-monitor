@@ -1,0 +1,5 @@
+cluster_id,cluster_name,data_criticality
+CLS-CORE-BANK,Core Banking Ledger,Tier-1 (Critical)
+CLS-EQ-TRADE,Equities Trading Engine,Tier-1 (Critical)
+CLS-FX-MATH,Forex Matching Platform,Tier-2 (High)
+CLS-CUST-MD,Customer Master Data,Tier-3 (Medium)
